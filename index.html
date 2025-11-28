@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mobile Price Comparison</title>
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+  <h1>📱 Mobile Price Comparison</h1>
+
+  <div class="search-sort-bar">
+    <input type="text" id="searchInput" placeholder="Search mobile brand or model">
+    <button onclick="filterData()">Search</button>
+    <select id="sortOption" onchange="filterData()">
+  <option value="">Sort By</option>
+  <option value="price-asc">Price (Low to High)</option>
+  <option value="price-desc">Price (High to Low)</option>
+  <option value="reviews">Reviews (High to Low)</option>
+  <option value="cashback">Cashback (High to Low)</option>
+</select>
+
+  </div>
+
+  <div id="mobile-category">
+    <h2>📂 Mobile Phones</h2>
+    <div id="brand-container"></div>
+  </div>
+  
+
+  <script src="script.js"></script>
+</body>
+</html>

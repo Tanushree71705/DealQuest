@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Samsung Galaxy AG16",
+    "price": 18999,
+    "reviews": 4.0,
+    "cashback": 5,
+    "cashbackType": "percent",
+    "image": "data/reliancedigital samsung1.avif",
+    "link":"https://www.reliancedigital.in/product/samsung-galaxy-a16-5g-128-gb-8-gb-ram-black-mobile-phone-m4gvu9-8762461",
+    "source": "Reliance Digital"
+  },
+  {
+    "name": "Samsung Galaxy M14",
+    "price": 13990,
+    "reviews":4.6,
+    "cashback": 7.5,
+     "cashbackType": "percent",
+    "image": "data/reliancedigital samsung2.avif",
+    "link":"https://www.reliancedigital.in/product/samsung-galaxy-m14-5g-128-gb-6-gb-ram-smoky-teal-smartphone-lmta4v-7533923",
+    "source": "Reliance Digital"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 52900,
+    "reviews": 5.0,
+    "cashback": 7.5,
+     "cashbackType": "percent",
+    "image": "data/flipkart iphone14.webp",
+    "link":"https://www.reliancedigital.in/product/apple-iphone-14-128-gb-blue-l7ucfz",
+    "source": "Reliance Digital"
+  },
+  {
+    "name": "iPhone 13 ",
+    "price": 53900,
+    "reviews": 5.0,
+    "cashback": 7.5,
+     "cashbackType": "percent",
+    "image": "data/reliancedigital iphone13.avif",
+    "link":"https://www.reliancedigital.in/product/apple-iphone-13-256-gb-green-l0ml32",
+    "source": "Reliance Digital"
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite",
+    "price": 19999,
+    "reviews": 4.7,
+    "cashback": 7.5,
+     "cashbackType": "percent",
+    "image": "data/relaincedigital oneplus.avif",
+    "link":"https://www.reliancedigital.in/product/oneplus-nord-ce-3-lite-5g-256-gb-8-gb-ram-chromatic-gray-mobile-phone-lgakxw",
+    "source": "Reliance Digital"
+  }
+]

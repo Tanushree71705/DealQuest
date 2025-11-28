@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Samsung Galaxy AG16",
+    "price": 15999,
+    "reviews": 3.8,
+    "cashback": 479,
+    "image": "data/amazon samsung1.jpg",
+    "link":"https://www.amazon.in/Samsung-Storage-Security-Updates-5000mAh/dp/B0DJP8QVLF?th=1",
+    "source": "Amazon"
+  },
+  {
+    "name": "Samsung Galaxy M14",
+    "price": 12999,
+    "reviews": 4.0,
+    "cashback": 389,
+    "image": "data/amazon samsung2.jpeg",
+    "link":"https://www.amazon.in/Samsung-5000mAh-Snapdragon-Processor-Security/dp/B0CV78R7FL",
+    "source": "Amazon"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 67999,
+    "reviews": 4.5,
+    "cashback": 1500,
+    "image": "data/amazon iphone14.jpg",
+    "link":"https://www.amazon.in/Apple-iPhone-Plus-128GB-Blue/dp/B0BDK62STN",
+    "source": "Amazon"
+  },
+  {
+    "name": "iPhone 13 ",
+    "price": 60900,
+    "reviews": 4.5,
+    "cashback": 1827,
+    "image": "data/amazon iphone13.jpg",
+    "link":"https://www.amazon.in/Apple-iPhone-13-128GB-Starlight/dp/B09G99B791?th=1",
+    "source": "Amazon"
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite",
+    "price": 19498,
+    "reviews": 4.2,
+    "cashback": 584,
+    "image": "data/amazon oneplus.jpeg",
+    "link":"https://www.amazon.in/OnePlus-Nord-Pastel-128GB-Storage/dp/B0BY8JZ22K",
+    "source": "Amazon"
+  }
+]

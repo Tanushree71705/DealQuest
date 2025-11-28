@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Samsung Galaxy AG16",
+    "price": 16999,
+    "reviews": 4.2,
+    "cashback": 4500,
+    "image": "data/flipkart samsung1.webp",
+    "link":"https://www.flipkart.com/samsung-galaxy-a16-5g-gold-128-gb/p/itmeb3b07d3eff44?pid=MOBH5JJ4F3Z3PVMU&lid=LSTMOBH5JJ4F3Z3PVMUJIDDQU&marketplace=FLIPKART",
+    "source": "Flipkart"
+  },
+  {
+    "name": "Samsung Galaxy M14",
+    "price": 10957,
+    "reviews": 4.2,
+    "cashback": 5042,
+    "image": "data/flipkart samsung2.webp",
+    "link":"https://www.flipkart.com/samsung-galaxy-m14-5g-smoky-teal-128-gb/p/itmb2e6db6c62f07?pid=MOBGZVNKZXGBHS2Q",
+    "source": "Flipkart"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 54999,
+    "reviews": 4.6,
+    "cashback": 4901,
+    "image": "data/flipkart iphone14.webp",
+    "link":"https://www.flipkart.com/apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d",
+    "source": "Flipkart"
+  },
+  {
+    "name": "iPhone 13",
+    "price": 44999,
+    "reviews": 4.6,
+    "cashback": 4901,
+    "image": "data/flipkart iphone13.webp",
+    "link":"https://www.flipkart.com/apple-iphone-13-blue-128-gb/p/itm6c601e0a58b3c",
+    "source": "Flipkart"
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite",
+    "price": 19400,
+    "reviews": 4.4,
+    "cashback": 683,
+    "image": "data/amazon oneplus.jpeg",
+    "link":"https://www.flipkart.com/oneplus-nord-ce-3-lite-5g-pastel-lime-128-gb/p/itm9633e12cbe6ee?pid=MOBGZJ3WM5SGTGVZ",
+    "source": "Flipkart"
+  }
+]
